@@ -5,7 +5,7 @@ This program get the file on the Desktop, send it to me via a Discord Webhook an
 
 ## The Story behind this program
 
-I'm a cyber-security student, and I'm very aware of everything regarding net-sec.
+I'm a cyber-security student, and I'm very aware of everything regarding net-sec/it-sec.
 My girlfriend used to store her passwords in an archive (.zip) called *"mdp"* wich litteraly mean "**M**ot **d**e **p**asses" in French (translation for "Password").
 All of that on her Desktop!
 The archive is protected with a 4-digit password (crackable in seconds)
@@ -25,7 +25,7 @@ The key is in the binary, you can get it just by reversing the program, and that
 
 ## Poor level of coding, bugs
 
-The conception of this program tooked me over 3 hours to complete, thats not much, so you can guess I didn't debugged this as much as I would usually.
+The conception of this program tooked me 3 hours to complete, thats not much, so you can guess I didn't debugged this as much as I would usually.
 I tried to add some comments also!
 
 ## ⚠️ Warning
