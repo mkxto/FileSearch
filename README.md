@@ -21,8 +21,7 @@ Her view:
 
 ## Security Problem
 
-The key is in the binary, you can get it just by reversing the program, and thats pretty easy since I made it in C#, its an Assembly so something like [DnSpy](https://github.com/dnSpy/dnSpy) can
-let the user to read trough the code with ease.
+The key is in the binary, you can get it just by reversing the program, and thats pretty easy since I made it in C#, its an Assembly so something like [DnSpy](https://github.com/dnSpy/dnSpy) can let the user read trough the code with ease.
 
 ## Poor level of coding, bugs
 
