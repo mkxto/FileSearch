@@ -28,3 +28,8 @@ let the user to read trough the code with ease.
 
 The conception of this program tooked me over 3 hours to complete, thats not much, so you can guess I didn't debugged this as much as I would usually.
 I tried to add some comments also!
+
+## ⚠️ Warning
+
+Use this program on machine you have authorization to do so!
+You are the only one responsible of your actions with my program!
