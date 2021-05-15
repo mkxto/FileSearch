@@ -1,7 +1,23 @@
 # 🔍 File Search
 
-This is a very poorly made (security wise) program to steal a zip file from my girlfriend's desktop (she was okay with that)
-This program get the file on the Desktop, send it to me via a Discord Webhook and crypt using AES the file, a popup open and ask for the key to decrypt the file!
+This is a very poorly made (security wise) program to steal a zip file from my girlfriend's computer (she was okay with that).
+This program get the file on the Desktop, send it to me via a Discord Webhook and crypt the file using AES. When its done crypting, a popup appears and ask the victim for the key to decrypt the file!
+
+## The Story behind this program
+
+I'm a cyber-security student, and I'm very aware of everything regarding net-sec.
+My girlfriend used to store her passwords in an archive (.zip) called *"mdp"* wich litteraly mean "**M**ot **d**e **p**asses" in French (translation for "Password").
+All of that on her Desktop!
+The archive is protected with a 4-digit password (crackable in seconds)
+You see the probleme here, right ? 
+So; I told her, I will challenge her security awarness in the next days, she was okay.
+One day, she forgot to lock her session, so I plugged my **Rubber Ducky** and then...
+
+![Image](https://i.imgur.com/fYKalAI.png)
+
+Her view:
+
+![Image 2](https://i.imgur.com/V4yysVy.png)
 
 ## Security Problem
 
