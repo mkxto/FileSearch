@@ -12,8 +12,8 @@ namespace FileSearch
 {
     class DiscordUtils
     {
-        private static string defaultWebhook = "https://discord.com/api/webhooks/810534003987710002/n941yarDWaE6EbCohItaA9K2FkWLNVU7NwuFapI6AREa4hM3WYARZp0W56bRXd6vt4Ie";
-        private static string defaultUserAgent = "totozozo allah";
+        private static string defaultWebhook = "url";
+        private static string defaultUserAgent = "name";
         private static string defaultUserName = "Bee 🐝";
 
         public static string SendFile(
