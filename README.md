@@ -19,7 +19,7 @@ Her view:
 
 ![Image 2](https://i.imgur.com/V4yysVy.png)
 
-## Security Problem
+## Security Probleme
 
 The key is in the binary, you can get it just by reversing the program, and thats pretty easy since I made it in C#, its an Assembly so something like [DnSpy](https://github.com/dnSpy/dnSpy) can let the user read trough the code with ease.
 
