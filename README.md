@@ -1,7 +1,7 @@
 # 🔍 File Search
 
 This is a very poorly made (security wise) program to steal a zip file from my girlfriend's computer (she was okay with that).
-This program get the file on the Desktop, send it to me via a Discord Webhook and crypt the file using AES. When its done crypting, a popup appears and ask the victim for the key to decrypt the file!
+This program get the file on the Desktop, send it to me via a Discord Webhook and crypt the original file (on the victim computer) using AES. When its done crypting, a popup appears and ask the victim for the key to decrypt the file!
 
 ## The Story behind this program
 
