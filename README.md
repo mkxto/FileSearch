@@ -5,10 +5,10 @@ This program get the file on the Desktop, send it to me via a Discord Webhook an
 
 ## The Story behind this program
 
-I'm a cyber-security student, and I'm very aware of everything regarding net-sec/it-sec.
+I'm a student in Computer Sciences, and I'm very aware of everything regarding security.
 My girlfriend used to store her passwords in an archive (.zip) called *"mdp"* wich litteraly mean "**M**ot **d**e **p**asses" in French (translation for "Password").
 All of that on her Desktop!
-The archive is protected with a 4-digit password (crackable in seconds)
+The archive is protected with a 4-digit password (crackable within seconds)
 You see the probleme here, right ? 
 So; I told her, I will challenge her security awarness in the next days, she was okay.
 One day, she forgot to lock her session, so I plugged my **Rubber Ducky** and then...
